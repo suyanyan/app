@@ -103,6 +103,9 @@ section{
  	margin-top: .15rem;
 
 }
+.content1 ul li a{
+	color: #565656;
+}
 .content1 ul li span{
 	width: 100%;
 	line-height: .3rem;
@@ -304,6 +307,9 @@ footer ul li{
 	float: left;
 	margin-right:.23rem;
 
+}
+footer ul li a{
+	color: #000;
 }
 footer .foot-ico{
 	margin-right: 0;

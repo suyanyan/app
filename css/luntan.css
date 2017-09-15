@@ -312,7 +312,9 @@ footer ul li:hover{
 footer ul li i:hover{
 	color: #4686ff;
 }
-
+footer ul li a{
+	color: #000;
+}
 
 footer .foot-ico{
 	margin-right: 0;

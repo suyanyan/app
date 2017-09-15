@@ -258,6 +258,9 @@ footer ul li{
 	margin-right:.23rem;
 
 }
+footer ul li a{
+	color: #000;
+}
 footer ul li:hover{
 	color: #4686ff;
 }

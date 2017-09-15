@@ -42,6 +42,10 @@ header{
 	text-align: center;
 	float: left;
 }
+.header-l a{
+	color: #333;
+}
+
 
 .header-cen{
 	width: 2.95rem;
